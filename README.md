@@ -65,7 +65,6 @@ The script uses SQLite to manage the transactions. It creates a connection to a 
 
 ![Flowchart Diagram](https://github.com/amdhamam/Pacmann_Andimart/blob/main/Flowchart%20Diagram.png?raw=true "Flowchart Diagram")
 
-
 ## Dependencies
 
 The script uses the following Python libraries:
